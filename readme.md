@@ -1,6 +1,6 @@
 # My very advanced gamestand on event horizon frontier
 
-[link to direct download](https://github.com/pascal-gerber/event-horizon-gamefiles/raw/bde43214bb4fac859f62bab94cc8aff7aa5eb517/savegame)
+[link to direct download](/pascal-gerber/event-horizon-gamefiles/raw/main/v%202.9.3/savegame)
 
 first you download even horizon frontier either trought 
 [play store](https://play.google.com/store/apps/details?id=com.ZipasGames.Frontier)
